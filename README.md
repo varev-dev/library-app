@@ -5,7 +5,7 @@
 This project is a response to problems related to the currently operating 
 system which contains many dysfunctions like:
 
-* **No** account borrow - return **history**.
+* **No access** to account operations history.
 * **Outdated** employee interface.
 * **Slow**, delayed operations.
 * **Long queues** for service.
@@ -13,7 +13,7 @@ system which contains many dysfunctions like:
 By creating own application using modern techniques we applied functionalities:
 
 * **Friendly interface** for employees and users.
-* **Online** appointment booking.
+* Online appointment **booking**.
 * Fast work in **real time**.
 * Full **account** history.
 
