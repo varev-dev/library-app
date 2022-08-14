@@ -2,7 +2,7 @@
 
 ## Simple borrow - return book CRUD written using Spring (Java) and Vue (JavaScript) storing data in relational SQL database (MySQL).
 
-This project is a response to problems related to the currently operating 
+This project is a response to problems related to the currently operating
 system which contains many dysfunctions like:
 
 * **No access** to account operations history.
@@ -17,4 +17,4 @@ By creating own application using modern techniques we applied functionalities:
 * Fast work in **real time**.
 * Full **account** history.
 
-## Demo tbc.
+## Demo soon.
