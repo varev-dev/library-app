@@ -28,6 +28,7 @@
         <module>library-core</module>
         <module>library-api</module>
         <module>library-ui</module>
+        <module>library-domain</module>
     </modules>
 
     <build>
